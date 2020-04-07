@@ -1,0 +1,36 @@
+.Online{
+    width: 20vw;
+    height: 100vh;
+    float: left;
+    margin: auto;
+    overflow: auto;
+}
+.InterviewSession{
+    width: 50vw;
+    height: 100vh;
+    float: left;
+    margin: auto;
+    position: relative;
+    align-items: stretch;
+}
+.Qusetion{
+    float: none;
+    width: 50vw;
+    height: auto;
+    margin: auto;
+    position: relative;
+}
+.Code{
+    float: none;
+    width: 50vw;
+    height: 50vh;
+    position: relative;
+    margin: auto;
+}
+.Chat{
+    float: none;
+    width: 25vw;
+    height: 100vh;
+    float: right;
+    position: relative;
+}
